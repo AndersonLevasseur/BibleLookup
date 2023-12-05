@@ -1,0 +1,3 @@
+[submodule "RustBibleLookup"]
+	path = RustBibleLookup
+	url = https://github.com/AndersonLevasseur/RustBibleLookup.git
